@@ -38,7 +38,7 @@ function Footer() {
               height={32}
             />
             <p className="dark:text-white text-nft-black-1 font-semibold text-lg ml-1">
-              CryptoKet
+              CryptoHat
             </p>
           </div>
           <p className="font-poppins text-nft-black-1 font-semibold mt-6 text-base">
@@ -57,7 +57,7 @@ function Footer() {
         </div>
         <div className="flex-1 flexBetweenStart flex-wrap ml-10 md:ml-0 md:mt-8">
           <FooterLinks
-            heading="CryptoKet"
+            heading="CryptoHat"
             items={["Explore", "How it Works", "COntact Us"]}
           />
           <FooterLinks
@@ -74,7 +74,7 @@ function Footer() {
       <div className="flexCenter w-full mt-5 border-t border-nft-gray-1 sm:px-4 px-16">
         <div className="flexBetween flex-row w-full minmd:w-4/5 sm:flex-col mt-7">
           <p className="font-poppins text-nft-black-1 font-semibold text-base">
-            CryptoKet, Inc. All Rights Reserved.
+            CryptoHat, Inc. All Rights Reserved.
           </p>
           <div className="mx-2 cursor-pointer flex gap-2">
             <CiInstagram className="w-7 h-7" />
