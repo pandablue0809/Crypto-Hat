@@ -1,4 +1,3 @@
-/** @type {import('tailwindcss').Config} */
 module.exports = {
   content: ["./component/**/*.{js,ts,jsx,tsx}", "./app/**/*.{js,ts,jsx,tsx}"],
   darkMode: "class",
@@ -53,9 +52,6 @@ module.exports = {
       zIndex: {
         "-5": "-5",
         0: "0",
-        5: "5",
-        10: "10",
-        15: "15",
       },
     },
     screens: {
